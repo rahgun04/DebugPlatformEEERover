@@ -1,0 +1,4 @@
+#!D:\Uni\Lab\EEE1labs\Group_Proj\DebugPlatform\Scripts\python.exe
+
+from xinput.operate_xinput_device import operate_xinput_device
+operate_xinput_device('0', 'TouchPad')
